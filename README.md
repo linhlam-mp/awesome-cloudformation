@@ -2,7 +2,7 @@
 
 A curated list of resources and projects for working with [AWS CloudFormation](https://aws.amazon.com/cloudformation/).
 
-## Contents
+## Content
 
 - [Awesome CloudFormation <img src="https://awesome.re/badge.svg" alt="Awesome">](#awesome-cloudformation-img-src%22httpsawesomerebadgesvg%22-alt%22awesome%22)
 - [Contents](#contents)
